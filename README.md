@@ -4,6 +4,7 @@ Converts PNG/JPGs to text files
 
 ## Perquisites
 
+- Install [Python >= 3.6](https://www.python.org/downloads/)
 - Install Tesseract for your OS, instructions [here](https://www.pyimagesearch.com/2017/07/03/installing-tesseract-for-ocr/)
 - Run: pip install -r requirements.txt
 
